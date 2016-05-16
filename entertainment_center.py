@@ -27,4 +27,4 @@ lazer_team = media.Movie("Lazer Team",
 # Open the movies page with defined movies
 # Creating list and passing on single line since we don't reuse the list
 fresh_tomatoes.open_movies_page([deadpool, captain_america, star_wars, independence_day,
-lazer_team])
+                                 lazer_team])
